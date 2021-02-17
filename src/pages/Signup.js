@@ -80,6 +80,7 @@ useEffect(()=>{
     setEmail={setEmail}
     password={password}
 setPassword={setPassword}
+setPassword={setPassword}
 handleLogin={handleLogin}
 handleSignup={handleSignup}
 hasAccount={hasAccount}
